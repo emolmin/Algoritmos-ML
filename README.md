@@ -1,7 +1,7 @@
 # Algoritmos-ML
 Algoritmos y código de algunos métodos de aprendizaje computacional (Machine Learning) usados en mis cursos
 
-## Los códigos están en la carpeta "Scripts"
+## Los códigos están en la carpeta "Programas"
 
 
 ## 👨‍🏫 Autor
